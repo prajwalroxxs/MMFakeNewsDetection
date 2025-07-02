@@ -220,11 +220,3 @@ If you use this system in your research, please cite:
 ## 🤝 Contributing
 
 This is a research project demonstrating multi-modal approaches to fake news detection. Contributions and improvements are welcome!
-
-## 📄 License
-
-This project is intended for research and educational purposes.
-
----
-
-**Note**: This system is designed for research purposes and should be used as part of a comprehensive fact-checking workflow, not as a standalone truth determination tool.
